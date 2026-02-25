@@ -1,10 +1,10 @@
-<h2>Jarvis AI – Intelligent Voice Assistant</h2>
+<h1>Jarvis AI – Intelligent Voice Assistant</h1>
 
 Jarvis AI is a Python-based virtual assistant designed to simulate a smart conversational agent capable of understanding voice commands and performing automated tasks. The assistant integrates advanced speech recognition, natural language processing, and text-to-speech technologies to provide a seamless human-computer interaction experience.
 
 This project demonstrates practical implementation of AI-driven voice systems, real-time command execution, and modular architecture for extensibility.
 
-<h3>🎯 Key Features :</h3>
+<h2>🎯 Key Features :</h2>
 
 🎙️ Real-time Speech Recognition
 
@@ -22,7 +22,7 @@ This project demonstrates practical implementation of AI-driven voice systems, r
 
 🛑 Smart Stop / Interrupt Handling
 
-<h3>🛠️ Tech Stack </h3>
+<h2>🛠️ Tech Stack </h2>
 
 Python
 
@@ -34,7 +34,7 @@ PyAudio / SoundDevice
 
 OS & Web Automation Modules
 
-<h3>🧩 System Architecture </h3>
+<h2>🧩 System Architecture </h2>
 
 Capture audio input
 
@@ -48,7 +48,7 @@ Convert response text to speech
 
 Play audio output
 
-<h3>💡 Use Cases</h3>
+<h2>💡 Use Cases</h2>
 
 Personal Desktop Automation
 
