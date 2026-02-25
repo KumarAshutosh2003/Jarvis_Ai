@@ -10,7 +10,7 @@ import requests
 # Creating the recogniser
 
 r = sr.Recognizer()
-newsapi = "c947759930774b358e3e2fb102356b76"
+newsapi = "Your_API_Key"
 
 def speak(text):
     engine = pyttsx3.init()   # creating new engine every time
@@ -101,3 +101,4 @@ if __name__ == "__main__":
             print("Could not understand")
         except Exception as e:
             print("Error; {0}".format(e))
+
