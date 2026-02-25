@@ -4,7 +4,7 @@ Jarvis AI is a Python-based virtual assistant designed to simulate a smart conve
 
 This project demonstrates practical implementation of AI-driven voice systems, real-time command execution, and modular architecture for extensibility.
 
-🎯 Key Features
+<h3>🎯 Key Features :</h3>
 
 🎙️ Real-time Speech Recognition
 
@@ -22,7 +22,7 @@ This project demonstrates practical implementation of AI-driven voice systems, r
 
 🛑 Smart Stop / Interrupt Handling
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack </h3>
 
 Python
 
@@ -32,11 +32,9 @@ Edge-TTS / TTS Engine
 
 PyAudio / SoundDevice
 
-NLP Processing
-
 OS & Web Automation Modules
 
-🧩 System Architecture
+<h3>🧩 System Architecture </h3>
 
 Capture audio input
 
@@ -50,7 +48,7 @@ Convert response text to speech
 
 Play audio output
 
-💡 Use Cases
+<h3>💡 Use Cases</h3>
 
 Personal Desktop Automation
 
@@ -62,7 +60,7 @@ Voice-Controlled System Operations
 
 Academic AI Demonstration Project
 
-📌 Future Improvements
+<h3>📌 Future Improvements</h3>
 
 GUI Interface
 
