@@ -1,6 +1,6 @@
 import requests
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Your_Free_API_Key"
 
 def ask_ai(prompt):
     url = "https://api.groq.com/openai/v1/chat/completions"
@@ -27,4 +27,5 @@ def ask_ai(prompt):
         result = response.json()
         return result["choices"][0]["message"]["content"]
     else:
+
         return "Sorry, I am unable to think right now."
